@@ -1,0 +1,22 @@
+# Compiled binary
+market_data_feed_handler
+
+# Object files
+*.o
+
+# Backup/temporary files
+*~
+*.swp
+*.bak
+
+# macOS system files
+.DS_Store
+
+# VSCode settings (optional)
+.vscode/
+
+# CLion/CMake builds (if using CLion)
+cmake-build-*/
+
+# Logs or dumps
+*.log
